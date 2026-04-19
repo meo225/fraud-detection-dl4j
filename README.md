@@ -1,4 +1,4 @@
-# Hệ thống phát hiện gian lận thẻ tín dụng bằng Deeplearning4j
+# Phát hiện gian lận thẻ tín dụng bằng Deeplearning4j
 
 Dự án này triển khai mô hình mạng nơ-ron Autoencoder nhằm phát hiện các giao dịch bất thường trong dữ liệu thẻ tín dụng. Hệ thống được xây dựng trên ngôn ngữ Java, sử dụng framework Deeplearning4j cho các tính toán học sâu.
 
