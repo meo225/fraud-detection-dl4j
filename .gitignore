@@ -1,0 +1,23 @@
+# LOẠI BỎ CÁC FILE TÀI LIỆU (THEO YÊU CẦU)
+*.md
+
+# LOẠI BỎ THƯ MỤC BUILD CỦA MAVEN
+target/
+
+# LOẠI BỎ CÁC FILE CÔNG CỤ (IDE)
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# LOẠI BỎ CÁC FILE DỮ LIỆU NẶNG VÀ KẾT QUẢ HUẤN LUYỆN
+src/main/resources/data/*.csv
+src/main/resources/data/*.bin
+src/main/resources/data/*.zip
+*.log
+
+# CÁC FILE TẠM THỜI KHÁC
+.DS_Store
+Thumbs.db
